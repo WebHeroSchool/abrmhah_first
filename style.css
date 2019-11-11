@@ -1,0 +1,41 @@
+body
+{
+  background-image: url(./gisborn.jpg);
+  background-size: cover;
+}
+.header
+{
+  text-align: left;
+}
+.main
+{
+  text-align: center;
+}
+.footer
+{
+  text-align: right;
+}
+.title
+{
+  font-family: sans-serif, times new roman;
+  color: #0ff;
+  font-size: 40px;
+}
+.description
+{
+  font-family: sans-serif, arial;
+  color: #B0E0E6;
+  font-size: 20px;
+}
+.button {
+  display: inline;
+  width: 150px;
+  font-size: 14px;
+  line-height: 28px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #fff;
+  background: transparent;
+  border: 2px solid;
+  text-align: center;
+}
