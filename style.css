@@ -1,8 +1,8 @@
-body
-{
+body{
   background-image: url(./gisborn1.jpg);
   background-size: cover;
-}
+  font-family: 'Montserrat', sans-serif;
+} 
 .header
 {
   text-align: left;
@@ -17,13 +17,12 @@ body
 }
 .title
 { 
-  font-family: sans-serif, times new roman;
+  font-family: 'Wallpoet', cursive;
   color: #0ff;
   font-size: 40px;
 }
 .description
 {
-  font-family: sans-serif, arial;
   color: #B0E0E6;
   font-size: 20px;
 }
