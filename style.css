@@ -1,6 +1,6 @@
 body
 {
-  background-image: url(./gisborn.jpg);
+  background-image: url(./gisborn1.jpg);
   background-size: cover;
 }
 .header
@@ -16,7 +16,7 @@ body
   text-align: right;
 }
 .title
-{
+{ 
   font-family: sans-serif, times new roman;
   color: #0ff;
   font-size: 40px;
